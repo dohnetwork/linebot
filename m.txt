@@ -1,0 +1,1000 @@
+    9  ls
+   10  apt-get install vsftpd
+   11  nano /etc/vsftpd.conf
+   12  service vsftpd restart
+   13  pwd
+   14  cd /var
+   15  cd www
+   16  ls
+   17  chmod 777 html
+   18  ls
+   19  php all3.php
+   20  ls
+   21  cd html
+   22  ls
+   23  php all3.php
+   24  composer
+   25  apt-get install composer
+   26  composer require linecorp/line-bot-sdk
+   27  pwd
+   28  ls
+   29  php
+   30  php all3.php
+   31  nano all3.php
+   32  apt install git
+   33  nano /etc/apache2/sites-available/000-default.conf 
+   34  nano /etc/hosts
+   35  git clone https://github.com/letsencrypt/letsencrypt /opt/letsencrypt
+   36  cd /opt
+   37  cd letsencrypt/
+   38  ./letsencrypt-auto --apache -d dohline.doh.go.th
+   39  reboot
+   40  cd /var
+   41  ls
+   42  cd www
+   43  ls
+   44  cd html
+   45  ls
+   46  chmod 777 *.*
+   47  ls
+   48  pwd
+   49  nano test.php
+   50  chmod 777 test.php
+   51  php test.php
+   52  nano test.php
+   53  php test.php
+   54  ls
+   55  nano all3.php
+   56  nano test.php
+   57  apt-get php5-curl
+   58  apt-get install  php5-curl
+   59  reboot
+   60  mysql -uroot -p
+   61  mysql -uroot -p camel
+   62  mysql -u root -p 
+   63  service mysql restart
+   64  cd /
+   65  cd etc
+   66  cd mysql
+   67  ls
+   68  cd mysql.conf.d/
+   69  ls
+   70  nano mysqld.cnf
+   71  service mysql restart
+   72  cd /
+   73  ls
+   74  cd var
+   75  cd www
+   76  ls
+   77  cd html
+   78  ls
+   79  nano all3.php
+   80  cd /
+   81  ls
+   82  cd /var/www/html
+   83  ls
+   84  cp all3.php backupall3.php
+   85  ls
+   86  nano all3.php
+   87  cd /var/www
+   88  ls
+   89  cd hmtl
+   90  ls
+   91  cd html
+   92  ls
+   93  nano all3.php
+   94  ls
+   95  nano all3.php
+   96  php all3.php
+   97  nano all3.php
+   98  php all3.php
+   99  nano all3.php
+  100  php all3.php
+  101  nano all3.php
+  102  php all3.php
+  103  nano all3.php
+  104  php all3.php
+  105  nano all3.php
+  106  php all3.php
+  107  nano all3.php
+  108  php all3.php
+  109  nano all3.php
+  110  php all3.php
+  111  nano all3.php
+  112  php all3.php
+  113  nano all3.php
+  114  php all3.php
+  115  กรมดูง่ายขึ้น
+  116  nano all3.php
+  117  cd /
+  118  ls
+  119  nano /usr/local/sbin/le-renew
+  120  cd /opt
+  121  ls
+  122  cd letsencrypt/
+  123  ls
+  124  clear
+  125  ls
+  126  sudo nano /usr/local/sbin/le-renew
+  127  ls
+  128  pwd
+  129  cd /
+  130  cd usr
+  131  cd local/
+  132  c sbin/
+  133  ls
+  134  ls -l
+  135  sudo nano /usr/local/sbin/le-renew
+  136  ls
+  137  sudo chmod +x le-renew
+  138  nano le-renew
+  139  sudo chmod +x le-renew
+  140  sudo ./le-renew
+  141  crontab -e
+  142  cd /
+  143  ls
+  144  cd var/www
+  145  ls
+  146  cd html/
+  147  ls
+  148  vi all3.php
+  149  cd /var/www
+  150  ls
+  151  cd hmtl
+  152  ls
+  153  cd html
+  154  ls
+  155  nano all3.php
+  156  cd /
+  157  sl
+  158  ls
+  159  cd var
+  160  ls
+  161  cd www
+  162  ls
+  163  cd html/
+  164  ls
+  165  nano backupall3.php 
+  166  ls
+  167  nano all3.php
+  168  cd /var
+  169  ls
+  170  cd www
+  171  ls
+  172  cd html/
+  173  ls
+  174  nano all3.php
+  175  cd /
+  176  pwd
+  177  ls
+  178  cd var
+  179  cd www
+  180  ls
+  181  cd html
+  182  ls
+  183  nano all3.php
+  184  ls
+  185  pwd
+  186  cd /
+  187  ls
+  188  cd var
+  189  ls
+  190  cd www
+  191  ls
+  192  cd html
+  193  ls
+  194  cat test.php
+  195  clear
+  196  ls
+  197  nano test.php
+  198  ls
+  199  nano test.php
+  200  cat test.php
+  201  nano test.php
+  202  lcear
+  203  clear
+  204  ls
+  205  clear
+  206  ls
+  207  cat backupall3.php
+  208  cd /
+  209  ls
+  210  cd var/www
+  211  ls
+  212  cd html
+  213  ls
+  214  nano backupall3.php 
+  215  cd /var/www/html
+  216  ls
+  217  nano test.php
+  218  cd /var
+  219  cd www
+  220  ls
+  221  cd html
+  222  ls
+  223  ls -l
+  224  nano test.php
+  225  cd /var
+  226  ls
+  227  cd www
+  228  ls
+  229  cd html/
+  230  ls
+  231  nano test.php
+  232  cd /var
+  233  ls
+  234  cd www
+  235  ls
+  236  cd html
+  237  ls
+  238  cp all3.php all4.php
+  239  ls
+  240  nani all4.php
+  241  nano
+  242  ls -l
+  243  nano all4.php
+  244  cd /var/www
+  245  ls
+  246  cd html
+  247  ls
+  248  nano all4.php
+  249  cd /
+  250  ls
+  251  cd var
+  252  ls
+  253  cd www
+  254  ls
+  255  cd html/
+  256  ls
+  257  cp all4.php bkall4.php
+  258  ls
+  259  nano all4.php
+  260  ls
+  261  chmod 777 3.jpg
+  262  ls -l
+  263  chmod
+  264  chmod 777 1.jpg
+  265  chmod 777 2.jpg
+  266  ls -l
+  267  nano all4.php
+  268  ls
+  269  chmod 777 how.jpg
+  270  ls
+  271  nano all4.php
+  272  ls
+  273  chmod 6.jpg
+  274  ls
+  275  chmod 777 6.jpg
+  276  nano all4.php
+  277  cd /var
+  278  cd www
+  279  ls
+  280  cd htmls
+  281  cd html/
+  282  ls
+  283  nano all4.php
+  284  cp all3.php all4.php
+  285  nano all4.php
+  286  cp all3.php all4.php
+  287  nano all4.php
+  288  cp all3.php all4.php
+  289  nano all4.php
+  290  cp all3.php all4.php
+  291  nano all4.php
+  292  cd /var/www
+  293  cd html/
+  294  ls
+  295  cp all4.php bkall4.php
+  296  ls
+  297  chmod 777 image
+  298  cd image
+  299  ls
+  300  chmod 777 *.*
+  301  ls
+  302  cd ..
+  303  ls
+  304  nano nano all4.php
+  305  nano all4.php
+  306  image
+  307  pwd
+  308  ls
+  309  cd image
+  310  ls
+  311  cd ..
+  312  nano all4.php
+  313  cd image
+  314  ls
+  315  chmod 777 *.*
+  316  ls
+  317  cd ..
+  318  nano all4.php
+  319  cd image/
+  320  ls
+  321  chmod 777 *.*
+  322  ls
+  323  cd ..
+  324  ls
+  325  nanon all4.php
+  326  nano all4.php
+  327  cd image/
+  328  chmod 777 *.*
+  329  ls
+  330  cd ..
+  331  cd image
+  332  ls
+  333  rm how2.jpg
+  334  ls
+  335  chmod 777 *.*
+  336  ls
+  337  ls -l
+  338  cd ..
+  339  ls
+  340  nano all4.php
+  341  cd image
+  342  ls
+  343  cd ..
+  344  ls
+  345  nano all4.php
+  346  cd image/
+  347  ls
+  348  chmod 777 *.*
+  349  cd ..
+  350  ls
+  351  nano all4.php
+  352  cd /var
+  353  ls
+  354  cd www
+  355  ls
+  356  cd html
+  357  ls
+  358  nano all4.php
+  359  cd /
+  360  cd var
+  361  cd www
+  362  ls
+  363  cd html
+  364  ls
+  365  cp all4.php all41.php
+  366  ls
+  367  cd /var/www
+  368  ls
+  369  cd html
+  370  ls
+  371  nano all41.php
+  372  cd /
+  373  ls
+  374  cd var/www
+  375  ls
+  376  cd html
+  377  ls
+  378  nano test.php
+  379  ls
+  380  nano test.php
+  381  cd /var
+  382  cd www
+  383  cd html/
+  384  ls
+  385  nano test.php
+  386  cd /var
+  387  ls
+  388  cd www
+  389  ls
+  390  cd html
+  391  ls
+  392  nano test.php
+  393  cd /var/www/
+  394  cd html
+  395  ls
+  396  nano bottest.php
+  397  cd /var/www/
+  398  ls
+  399  cd html
+  400  ls
+  401  ls -l
+  402  ls
+  403  cp bottest.php botnhoi.php
+  404  ls
+  405  ls -l
+  406  ls
+  407  chmod 777 botnhoi.php 
+  408  ls
+  409  cd /
+  410  ls
+  411  cd var
+  412  ls
+  413  cd www
+  414  ls
+  415  cd html
+  416  ls
+  417  get bottest.php
+  418  ftp
+  419  cd /
+  420  ls
+  421  cd opt
+  422  ls
+  423  cd letsencrypt/
+  424  ls
+  425  ls -l
+  426  ./letsencrypt-auto certonly --apache --keep-until-expiring -d dohline.doh.go.th
+  427  ls
+  428  cd /
+  429  apt-get update
+  430  cd /var/www
+  431  cd html
+  432  ls
+  433  cd vendor
+  434  ls
+  435  pwd
+  436  ls
+  437  cd ..
+  438  ls
+  439  nano new1.php
+  440  cd vendor
+  441  ls
+  442  pwd
+  443  cd ..
+  444  ls
+  445  cd /var
+  446  cd www
+  447  ls
+  448  cd html
+  449  ls
+  450  cat all4.php
+  451  cd /var
+  452  ls
+  453  cd www
+  454  ls
+  455  cd html
+  456  ls
+  457  nmap
+  458  apt-get install nmap
+  459  cd /etc
+  460  ls
+  461  cd init.d
+  462  ls
+  463  /etc/init.d/usbarbitrator stop
+  464  ./etc/init.d/usbarbitrator stop
+  465  ./mountall.sh
+  466  cd /
+  467  find ./ -name *.jpg
+  468  pwd
+  469  cd home
+  470  ls
+  471  cd itsared/
+  472  ls
+  473  nmap
+  474  cd /
+  475  cat /etc/services
+  476  pwd
+  477  find ./ -name *.log
+  478  cd var/log
+  479  nano vsftpd.log
+  480  cd /home
+  481  ls
+  482  cd itsared/
+  483  ls
+  484  cd /
+  485  cd home
+  486  ls
+  487  cd  ..
+  488  ls
+  489  chmod 777 home
+  490  ls
+  491  ls -l home
+  492  cd home
+  493  ls
+  494  clear
+  495  ls
+  496  cd itsared
+  497  ls
+  498  cd ..
+  499  ls
+  500  pwd
+  501  ls
+  502  clear
+  503  ls
+  504  cd ..
+  505  ls
+  506  cd ..
+  507  ls
+  508  find ./ -name *.jpg
+  509  find ./ -name *.avi
+  510  pwd
+  511  ls
+  512  cd home
+  513  ls
+  514  cd itsared/
+  515  ls
+  516  clear
+  517  ls -l
+  518  ls
+  519  clear
+  520  ls
+  521  cd ..
+  522  ls
+  523  cd itsared/
+  524  ls
+  525  cd ..
+  526  ls
+  527  cd itsared/
+  528  ls
+  529  cd ..
+  530  ls
+  531  cd itsared/
+  532  ls
+  533  clear
+  534  ls
+  535  cd ..
+  536  ls
+  537  cd itsared/
+  538  ls
+  539  cd 192.168.1.10_001212cc31ba/
+  540  ls
+  541  cd 2018-01-17/
+  542  ls
+  543  cd 01/
+  544  ls
+  545  cd pic/
+  546  ls
+  547  ls -l
+  548  ls
+  549  ls -l
+  550  ls
+  551  ls -l
+  552  ls
+  553  ls -l
+  554  ls
+  555  ls -l
+  556  rm *
+  557  ls
+  558  clear
+  559  ls
+  560  clear
+  561  ls
+  562  clear
+  563  ls
+  564  rm *
+  565  ls
+  566  rm *
+  567  ls
+  568  ls -l
+  569  ls
+  570  rm *
+  571  ls
+  572  rm *
+  573  ls
+  574  ls -l
+  575  ls
+  576  ls -l
+  577  ls
+  578  ls -l
+  579  clear
+  580  ls
+  581  ls -l
+  582  ls
+  583  rm *
+  584  ls
+  585  ls -l
+  586  ls
+  587  rm *
+  588  ls
+  589  clear
+  590  ls
+  591  rm *
+  592  l
+  593  ls
+  594  rm *
+  595  ls
+  596  rm *
+  597  ls
+  598  rm *
+  599  ls
+  600  rm *
+  601  ls
+  602  rm *
+  603  ls
+  604  cd 172.16.22.60_001212cc31ba/
+  605  ls
+  606  cd 2018-01-19/
+  607  ls
+  608  cd 01/
+  609  ls
+  610  cd pic
+  611  ls
+  612  ls -l
+  613  ls
+  614  ls -l
+  615  ls
+  616  cd /
+  617  ls
+  618  cd opt
+  619  ls
+  620  cd letsencrypt/
+  621  ls
+  622  ./letsencrypt-auto certonly --apache --keep-until-expiring -d www.foo.com
+  623  ./letsencrypt-auto certonly --apache --keep-until-expiring -d dohline.doh.go.th
+  624  ls
+  625  reboot
+  626  nmap
+  627  apt-get install nmap
+  628  cd /opt
+  629  ls
+  630  cd letsencrypt/
+  631  ls
+  632  ./letsencrypt-auto certonly --apache --keep-until-expiring -d dohline.doh.go.th
+  633  cat /var/log/letsencrypt
+  634  cd var/log
+  635  ls
+  636  cd letsencrypt
+  637  ls
+  638  cd /var
+  639  ls
+  640  cd log
+  641  ls
+  642  cat letsencrypt/
+  643  cd letsencrypt/
+  644  ls
+  645  ls -l
+  646  cat letsencrypt.log
+  647  cd /
+  648  ls
+  649  cd /etc
+  650  cd letsencrypt/
+  651  cd live
+  652  ls
+  653  cd dohline.doh.go.th/
+  654  ls
+  655  sudo openssl x509 -enddate -noout -in /etc/letsencrypt/live/dohline.doh.go.th/fullchain.pem
+  656  ./letsencrypt-auto certonly --apache --keep-until-expiring -d dohline.doh.go.th
+  657  cd /opt
+  658  ls
+  659  cd letsencrypt/
+  660  ./letsencrypt-auto certonly --apache --keep-until-expiring -d dohline.doh.go.th
+  661  ./letsencrypt-auto -d dohline.doh.go.th
+  662  clear
+  663  ./letsencrypt-auto -d dohline.doh.go.th
+  664  cd /var
+  665  ls
+  666  cd www
+  667  ls
+  668  cd html
+  669  ls
+  670  cd profile/
+  671  ls
+  672  cd profile/
+  673  ls
+  674  chmod 777 .
+  675  ls
+  676  cd /
+  677  sudo chmod -R 777 /var/www
+  678  cd /var/www
+  679  ls
+  680  cd html/
+  681  ls
+  682  cd profile/
+  683  ls
+  684  sudo chmod -R 777 profile/
+  685  ls
+  686  cd profile/
+  687  ls
+  688  cd profile/
+  689  ls
+  690  unzip
+  691  apt-get install unzip
+  692  unzip
+  693  apt-get unzip
+  694  apt-get install unzip
+  695  apt-get update
+  696  sudo apt-get install p7zip-full
+  697  ls
+  698  pwd
+  699  ls -l
+  700  cd ..
+  701  ls
+  702  cd /
+  703  ls
+  704  cd var
+  705  ls
+  706  cd www
+  707  ls
+  708  cd html
+  709  sl
+  710  ls
+  711  cd profile/
+  712  ls
+  713  rm profile
+  714  rm -R profile
+  715  ls
+  716  7z x Profile-167473787.zip 
+  717  ls
+  718  cd ..
+  719  chmod -R 777 profile/
+  720  ls
+  721  cd profile/
+  722  ls
+  723  cd ..
+  724  chmod -R 777 profile/
+  725  sudo chmod +x le-renews
+  726  cd /
+  727  find ./ *.jgp
+  728  find ./ *.jgp |more
+  729  pwd
+  730  ls
+  731  find ./ *.jgp |more
+  732  cd home/itsared
+  733  ls
+  734  cd 192.168.1.101_001212cc31ba/
+  735  ls
+  736  cd 2018-09-02/
+  737  ls
+  738  cd 01
+  739  ls
+  740  cd pic
+  741  ls
+  742  host chachoengsao.doh.go.th
+  743  host chachoengsao.doh.go.th internet.mot.go.th
+  744  ping webmain.doh.go.th
+  745  ping www.doh.go.th
+  746  host chachoengsao.doh.go.th internet.mot.go.th
+  747  ping webmain.doh.go.th
+  748  wget
+  749  wget webmain.doh.go.th
+  750  ping webmain.doh.go.th
+  751  exit
+  752  host webmain.doh.go.th internet.doh.go.th
+  753  host webmain.doh.go.th internet.mot.go.th
+  754  ping webmain.doh.go.th
+  755  cd /opt
+  756  ls
+  757  cd letsencrypt/
+  758  ls
+  759  ./letsencrypt-auto -d dohline.doh.go.th
+  760  cd /opt
+  761  ls
+  762  cd letsencrypt/
+  763  ./letsencrypt-auto certonly --apache --keep-until-expiring -d dohline.doh.go.th
+  764  ./letsencrypt-auto -d dohline.doh.go.th
+  765  cd /
+  766  cd opt
+  767  ls
+  768  cd letsencrypt/
+  769  ls
+  770  ./letsencrypt-auto certonly --apache --keep-until-expiring -d dohline.doh.go.th
+  771  ./letsencrypt-auto -d dohline.doh.go.th
+  772  cd /opt
+  773  ls
+  774  cd letsencrypt/
+  775  ls
+  776  Shell
+  777  ./letsencrypt-auto -d www.foo.com
+  778  ./letsencrypt-auto -d dohline.doh.go.th
+  779  cd /opt
+  780  ls
+  781  ./letsencrypt-auto -d dohline.doh.go.th
+  782  pwd
+  783  cd /
+  784  ls
+  785  cd opt
+  786  ls
+  787  cd letsencrypt/
+  788  ls
+  789  ./letsencrypt-auto -d dohline.doh.go.th
+  790  docker
+  791  apt-get install docker.io
+  792  docker
+  793  sudo su apt-get install docker.io
+  794  sudo  apt-get install docker.io
+  795  update
+  796  apt-get update
+  797  sudo  apt-get install docker.io
+  798  apt-get docker
+  799  apt-get install docker
+  800  docker
+  801  apt-get install docker.io
+  802  E: Unable to fetch some archives, maybe run apt-get update or try with --fix-mis                                                                             sing?
+  803  sudo apt-get clean
+  804  sudo apt-get update
+  805  sudo apt-get upgrade --fix-missing
+  806  sudo apt-get upgrade -f --fix-missing
+  807  sudo apt install it
+  808  apt-get install docker
+  809  apt-get install docker.io
+  810  sudo apt --fix-missing install
+  811  docker
+  812  docker.io
+  813  apt-get install docker.io
+  814  udo apt-get remove docker docker-engine docker.io containerd runc
+  815  sudo apt-get remove docker docker-engine docker.io containerd runc
+  816  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
+  817  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  818  sudo apt-get update
+  819  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  820  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+  821  sudo apt-get update
+  822  apt-cache policy docker-ce
+  823  sudo apt-get install -y docker-ce
+  824  pwd
+  825  docker ps
+  826  apt-get install docker.io
+  827  docker ps
+  828  apt-get install docker.io
+  829  sudo apt-get update
+  830  cd /etc
+  831  ls
+  832  cd apt
+  833  ls
+  834  nano sources.list
+  835  sudo apt-get clean
+  836  sudo apt-get upgrade -f --fix-missing
+  837  sudo apt install it
+  838  sudo apt --fix-missing install
+  839  docker
+  840  apt-get install docker.io
+  841  pip
+  842  apt-get install python-pip
+  843  curl -fsSL https://get.docker.com -o get-docker.sh
+  844  sudo sh get-docker.sh
+  845  docker 
+  846  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  847  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+  848  sudo apt-get update
+  849  apt-cache policy docker-ce
+  850  ls
+  851  cd ..
+  852  ls
+  853  cd /var
+  854  ls
+  855  cd www
+  856  ls
+  857  cd html
+  858  ls
+  859  nano D0h10.php
+  860  ls -l
+  861  nano doh3.php
+  862  cat doh40.php
+  863  nano doh40.php
+  864  cd opt
+  865  ls
+  866  cd /opt
+  867  ls
+  868  cd letsencrypt/
+  869  ls
+  870  sudo add-apt-repository ppa:certbot/certbot
+  871  sudo apt install python-certbot-apache
+  872  cd ..
+  873  ls
+  874  mkdir kong
+  875  ls
+  876  cd kong
+  877  git clone https://github.com/letsencrypt/letsencrypt
+  878  ls
+  879  ls
+  880  ./letsencrypt-auto -d dohline.doh.go.th -d www.dohline.doh.go.th
+  881  ./letsencrypt-auto -d dohline.doh.go.th 
+  882  cd ..
+  883  ls
+  884  nano 
+  885  ls
+  886  cp CommandEditDohline dohline.txt
+  887  ls
+  888  nano dohline.txt 
+  889  ls
+  890  cd /var
+  891  ls
+  892  cd www
+  893  ls
+  894  cd html
+  895  ls
+  896  nano doh41.php
+  897  docker ps
+  898  crontab -l
+  899  ls
+  900  cd /var
+  901  ls
+  902  cd www
+  903  ls
+  904  cd html
+  905  ls
+  906  nano kong.php
+  907  nano kong9.php
+  908  chmod 777 kong9.php
+  909  ls
+  910  cd /opt
+  911  ls
+  912  cd letsencrypt/
+  913  pwd
+  914  ls
+  915  nmap
+  916  apt-get install namp
+  917  apt-get install nmap
+  918  nmap
+  919  apt-get intsll namp
+  920  cd /opt
+  921  ls
+  922  cat dohline.txt
+  923  ./letsencrypt-auto -d dohline.doh.go.th
+  924  ls
+  925  cd letsencrypt/
+  926  ls
+  927  ./letsencrypt-auto -d dohline.doh.go.th
+  928  nmap
+  929  apt-get install nmap
+  930  host drive.doh.go.th
+  931  ls
+  932  docker ps
+  933  cd /
+  934  ls
+  935  unmae
+  936  uame
+  937  uname
+  938  uname -a
+  939  update
+  940  apt update
+  941  cd /
+  942  cd usr
+  943  cd local/
+  944  cd sbin
+  945  ls
+  946  nano le-renew 
+  947  docker ps
+  948  apt-get install docker.io
+  949  pwd
+  950  cd /opt
+  951  ls
+  952  cd letsencrypt/
+  953  ls
+  954  ./letsencrypt-auto -d dohline.doh.go.th
+  955  sudo nano /usr/local/sbin/le-renew
+  956  cd /
+  957  pwd
+  958  ls
+  959  cd usr
+  960  ls
+  961  cd local/
+  962  cd sbin
+  963  ls
+  964  ls -l
+  965  sudo chmod +x le-renew
+  966  ls -l
+  967  sudo /usr/local/sbin/le-renew
+  968  contab -e
+  969  crontab -e
+  970  apt install iperf
+  971  iperf -s
+  972  ls
+  973  iperf -c 164.115.26.156
+  974  nmap
+  975  apt-get install nmap
+  976  iperf -s
+  977  iperf -s -p 5201
+  978  nmap
+  979  apt-get install nmap
+  980  iperf -s -p 8080
+  981  pkill iperf
+  982  iperf -s -p 8080
+  983  iperf3 -s -p 8080
+  984  iperf -s -p 8080
+  985  nmap 164.115.26.199
+  986  apt-get install nmap
+  987  apt-get update
+  988  ls
+  989  pwd
+  990  cd ..
+  991  ls
+  992  cd ..
+  993  ls
+  994  cd var
+  995  ls
+  996  cd www
+  997  ls
+  998  cd html
+  999  ls
+ 1000  ls *.json
+ 1001  cat composer.json 
+ 1002  cat composer.lock
+ 1003  ls
+ 1004  cat composer.json 
+ 1005  cd /home
+ 1006  cd itsared/
+ 1007  ls
+ 1008  history > m.txt
